@@ -48,8 +48,7 @@ The application uses an SQLite3 database with three main tables:
 ### Installation
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/sofirij/finance.git
+   git clone https://github.com/sofirij/Finance.git
    cd finance
 2. Install the required packages:
     pip install -r requirements.txt
